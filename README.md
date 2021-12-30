@@ -1,8 +1,8 @@
 # Hate-Speech-Detection
 
 ## Dataset
-The dataset used is accessed from the SemEval 2019: Task 5
-For downloading the dataset please register in the [contest](https://competitions.codalab.org/competitions/19935) and request the dataset
+The dataset used is accessed from the SemEval 2019: Task 5. 
+For downloading the dataset please register in the [contest](https://competitions.codalab.org/competitions/19935) and request the dataset.
 
 ## Data Preprocessing
 * Remove Mentions : Example - @john is substituted with USER.
